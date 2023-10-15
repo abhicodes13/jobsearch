@@ -44,7 +44,7 @@ const Jobs = () => {
                 <BiTimeFive/>Now
             </span>
         </span>
-        <h6 className="text-[#ccc]">Switzerland</h6>
+        <h6 className="text-[#ccc]">UK</h6>
         <p className="text-sm">Lorem ipsum, dolor sit amet coedit sum, dolor sit ametcoedit coedit coeditcoeditsum, dolor coeditsit amet coedit</p>
         </div>
     </div>
