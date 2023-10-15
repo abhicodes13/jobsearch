@@ -30,7 +30,7 @@ const Jobs = () => {
         <span className='flex justify-between items-center gap-4'>
             <h1 className='text-[16px] font-semibold text-textColor group-hover:text-white'>Fullstack Developer</h1>
             <span className='flex items-center text-[#ccc] gap-1'>
-                <BiTimeFive/>2weeks
+                <BiTimeFive/>Now
             </span>
         </span>
         <h6 className="text-[#ccc]">USA</h6>
